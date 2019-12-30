@@ -4,7 +4,7 @@ import PropTypes from "prop-types"
 const Layout = ({ children }) => {
   return (
     <>  
-      <div>5271</div>
+      <div>5272</div>
     </>
   )
 }
